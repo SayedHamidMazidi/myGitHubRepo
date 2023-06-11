@@ -6,5 +6,7 @@ public class CalculatorRunner {
         calculator.subtract(4,2);
         calculator.multiply(10,5);
 
+        System.out.println(calculator.multiply(10,5));
+
     }
 }
